@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\sueda\source\repos\lab1\lab1\Source.c(20,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sueda\source\repos\lab1\lab1\Source.c(95,9): warning C4101: 'j': unreferenced local variable
+  lab1.vcxproj -> C:\Users\sueda\source\repos\lab1\x64\Debug\lab1.exe
